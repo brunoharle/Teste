@@ -39,7 +39,6 @@ public class Git extends Thread{
                 semaforo.release();
             }
         }
-
-    }
+}
 
 
